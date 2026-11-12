@@ -141,6 +141,7 @@
 
 - [Whisper+](https://www.oneai.com/speech-to-text) - Extension of the Whisper model which adds powerful features such as speaker identification custom vocabulary, summarization, and chapter generation.
 - [Replicate](https://replicate.com/openai/whisper) - Use Whisper running on Replicate.
+- [CloudGPU](https://cloudgpu.app/run/whisper-large-v3) - Transcribe with Whisper large-v3 through an OpenAI-compatible API, or run it on a GPU rented by the minute.
 
 ## Related lists
 
